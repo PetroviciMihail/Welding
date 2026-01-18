@@ -1,8 +1,13 @@
 This VW LUPO is the Fastest Romanian car in the 1/4 mile. 
+
 2 engines
+
 4 turbos
+
 3500 horsepower
+
 0-300kmh 7 seconds
+
 100-200kmh under 2 seconds
 
 

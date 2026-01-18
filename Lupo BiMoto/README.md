@@ -1,5 +1,11 @@
-Fastest Romanian car in the 1/4 mile.
-Twin engine, 4 turbos.
+This VW LUPO is the Fastest Romanian car in the 1/4 mile. 
+  2 engines
+  4 turbos
+  3500 horsepower
+  0-300kmh 7 seconds
+  100-200kmh under 2 seconds
+
+
 ![558205537_1118543170410169_1011987541070234258_n](https://github.com/user-attachments/assets/046307fb-5eb9-44a7-8ff7-4b97a811fd63)
 
 Everything on a racecar like this needs to be custom made, and I was responsible for the bigger part of the fabrication on the current setup.
